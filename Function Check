@@ -1,0 +1,9 @@
+import math
+
+def YeAdd2split6(x, y):
+    
+    total = ((x+y)+2) / 6
+
+    return total
+
+print(YeAdd2split6(5, 2.5))
